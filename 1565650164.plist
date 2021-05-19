@@ -4,7 +4,5 @@
 <dict>
 	<key>appUpdate</key>
 	<false/>
-	<key>appDownload</key>
-	<false/>
 </dict>
 </plist>
